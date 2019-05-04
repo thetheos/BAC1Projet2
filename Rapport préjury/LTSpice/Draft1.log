@@ -1,0 +1,22 @@
+Circuit: * C:\users\thatthetheos\My Documents\Université\BAC1\Q2.PROJET\Rapport préjury\LTSpice\Draft1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Apr 29 21:38:45 2019
+Total elapsed time: 0.173 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4233
+traniter = 4217
+tranpoints = 1670
+accept = 1490
+rejected = 180
+matrix size = 24
+fillins = 15
+solver = Normal
+Thread vector: 18.5/11.8[2] 4.2/4.0[1] 3.7/4.3[1] 0.8/1.7[1]  2592/500
+Matrix Compiler1: 3.35 KB object code size  1.5/1.2/[0.9]
+Matrix Compiler2: 2.65 KB object code size  1.0/1.2/[0.8]
+
